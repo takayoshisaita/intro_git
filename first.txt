@@ -4,3 +4,4 @@ Gitの練習。
 ・git commit
 15. 色々な変更をコミットしよう
 ・git rm
+・git status
