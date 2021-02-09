@@ -2,4 +2,5 @@ Gitの練習。
 14. 変更をコミットしよう
 ・git add
 ・git commit
-
+15. 色々な変更をコミットしよう
+・git rm
